@@ -1,0 +1,22 @@
+#EXTINF:-1 ch-number="722" tvg-name="White Channel" tvg-id="White Channel.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/iconOtherapp192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0059.png" group-title="AIS | Education", White Channel
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0059/DASH/V0059.mpd
+
+
+#EXTINF:-1 ch-number="801" tvg-name="O shopping" tvg-id="O shopping.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/iconOtherapp192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0052.png" group-title="AIS | Shopping", O shopping
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0052/DASH/V0052.mpd
+
+
+#EXTINF:-1 ch-number="802" tvg-name="TVD MOMO" tvg-id="TVD MOMO.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/iconOtherapp192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0064.png" group-title="AIS | Shopping", TVD MOMO
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0064/DASH/V0064.mpd
+
+
+#EXTINF:-1 ch-number="803" tvg-name="TVD 1" tvg-id="TVD 1.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/iconOtherapp192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVD1.png" group-title="AIS | Shopping", TVD 1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0067/DASH/V0067.mpd
+
+
+#EXTINF:-1 ch-number="807" tvg-name="True Shopping" tvg-id="True Shopping.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/iconOtherapp192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png" group-title="AIS | Shopping", True Shopping
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0111/DASH/V0111.mpd
+
+
+#EXTINF:-1 ch-number="808" tvg-name="TrueSelect" tvg-id="TrueSelect.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/iconOtherapp192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png" group-title="AIS | Shopping", TrueSelect
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0112/DASH/V0112.mpd
